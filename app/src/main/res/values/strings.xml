@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Museo de Historia Natural</string>
+    <!-- Textos generales-->
+    <string name="main_exhibiciones">Exhibiciones</string>
+    <string name="main_iniciar_sesion">Iniciar sesión</string>
+
+    <!-- Botones específicos -->
+
+    <!-- Textos específicos-->
+
+</resources>
